@@ -1,0 +1,39 @@
+WEB
+    WEB Basic ：HTML  +  CSS  + Javascript
+Django：
+============================================
+web：互联网的应用程序——网页
+典型的应用：
+1、C/S          Client：客户端          Server：服务器
+2、B/S          Browser：浏览器       Server：服务器
+web的组成，运行流程
+由服务器，浏览器和通信协议
+服务器：处理用户请求（request）和响应（response）
+浏览器：代替用户向服务器发送请求（user agent）
+通信协议：规范服务器和浏览器的数据是如何打包传送的
+    http：Hyper   text  transfer protocal    超级文本传输协议
+web服务器
+作用：
+    接受用户的请求并给出反应
+    存储web信息
+    具备安全性功能——重要
+产品
+1、APAVHE      
+2、TOMCAT
+3、IIS - Internet information Server
+4、Nginx
+技术
+1、JSP - Java Server Page
+2、php
+3、ASP.NET
+4、Python web（django，flask，......）
+web浏览器
+作用：
+1、代替用户向服务器发送请求
+2、作为响应数据的解释引擎
+浏览器靠内核处理数据，内核包含2个部分
+1、内容排版引擎 - html，css
+2、脚本解释引擎 - Javascript
+浏览器技术
+1、html，css，Javascript
+============================================
